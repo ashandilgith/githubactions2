@@ -1,4 +1,4 @@
-name: Python CI
+name: Python Continuous Integration
 
 # Trigger the workflow on any push to the main branch or pull request
 
